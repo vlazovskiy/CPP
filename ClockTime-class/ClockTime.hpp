@@ -1,7 +1,7 @@
 // Header file for class ClockTime 
 
-const int max_hours = 24;
-const int max_minutes = 60;
+const int MAX_HOURS = 24;
+const int MAX_MINUTES = 60;
 
 // Definition of ClockTime class.
 class ClockTime {
