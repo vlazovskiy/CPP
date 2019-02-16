@@ -1,10 +1,3 @@
-// CS 110C, Spring 2019
-// Instructor: Dr. Daniel O'Leary
-// Assignment # 2, time of the day ADT implementation
-// Vladimir Lazovskiy
-
-/*Design and implement an ADT that represents the time of day. Represent the time as hours and minutes on a 24-hour clock. The hours and minutes are the private data members of the class that implements the ADT. Include at least two initialization operations: one that provides a default value for the time, and another that sets the time to a client-supplied value. These operations are the class’s constructors. Also include operations that set the time, increase the present time by a number of minutes, and display the time in 12-hour and 24-hour notations.*/
-
 #include <iostream>
 #include "ClockTime.hpp"
 using namespace std;
